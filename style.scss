@@ -28,12 +28,12 @@ column-gap: 700px;
 
     .container {
         margin: auto;
-        max-width: 1440px;
+        max-width: 1240px;
     }
     .s3{
         display: flex;
 column-gap: 50px;
-        margin-top: 100px;
+        margin-top: 50px;
         width: 222px;
         height: 24px;
     }
@@ -52,7 +52,7 @@ column-gap: 50px;
 }
 .s3-div2{
     display: flex;
-    column-gap: ;
+    column-gap: 30px;
 }
 
 .li-list-s3 .card{
@@ -60,6 +60,7 @@ column-gap: 50px;
     height: 56px;
   
 }
+
 .text-s3-h{
     font-family: 'Roboto';
 font-style: normal;
@@ -68,4 +69,36 @@ font-size: 14px;
 line-height: 24px;
 letter-spacing: 0.1px;
 color: rgba(0, 0, 0, 0.6);
+}
+.p-s-3-div{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+letter-spacing: 0.25px;
+color: rgba(0, 0, 0, 0.87);
+width: 700px;
+}
+.select-s3{
+    margin-left: auto;
+}
+.select-s3e{
+    width: 10px;
+    height: 
+    30px;
+}
+.option-selection-s3{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.25px; 
+color: rgba(0, 0, 0, 0.6);
+}
+.li-list-grup-item{
+    align-items: center;
+}
+.input-group{
+    margin-top: 50px;
 }
